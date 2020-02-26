@@ -4,4 +4,8 @@ fix bug after release to qa.
 
 Fresh Edited File
 
-Edited From Master...
+Edited From Master... Edited from master branch line 1
+
+Edited from master branch line 2
+
+Edited from master branch line 1
