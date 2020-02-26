@@ -3,3 +3,5 @@ first line in feature 1.3
 fix bug after release to qa.
 
 Fresh Edited File
+
+Edited From Master...
